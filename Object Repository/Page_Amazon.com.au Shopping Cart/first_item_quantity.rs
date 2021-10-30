@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>first_item_quantity</name>
+   <tag></tag>
+   <elementGuidId>16a206e9-1bba-4412-a787-637ef31255dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sc-item-C193fa43c-3b3b-4c52-b841-f73a787ec818 > div.a-section.a-spacing-none.ewc-wider-compact-view-only.ewc-item-actions > div.a-row > div.a-column.a-span6.a-text-center.a-spacing-mini.a-spacing-top-base.quantity-dropdown > span.sc-action-quantity > span.sc-invisible-when-no-js > span > span.a-dropdown-container > span.a-button.a-button-dropdown.a-button-small.quantity > span.a-button-inner > span.a-button-text.a-declarative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[3]/div[5]/div/span/span/span/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '2' or . = '2')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-item-C193fa43c-3b3b-4c52-b841-f73a787ec818&quot;)/div[@class=&quot;a-section a-spacing-none ewc-wider-compact-view-only ewc-item-actions&quot;]/div[@class=&quot;a-row&quot;]/div[@class=&quot;a-column a-span6 a-text-center a-spacing-mini a-spacing-top-base quantity-dropdown&quot;]/span[@class=&quot;sc-action-quantity&quot;]/span[@class=&quot;sc-invisible-when-no-js&quot;]/span[1]/span[@class=&quot;a-dropdown-container&quot;]/span[@class=&quot;a-button a-button-dropdown a-button-small quantity&quot;]/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-item-C193fa43c-3b3b-4c52-b841-f73a787ec818']/div[3]/div[5]/div/span/span/span/span/span/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update failed. Try again'])[2]/following::span[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete failed. Try again'])[2]/following::span[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('GUND Doug The Pug Pizza Hat Plush Stuffed Animal Dog, 5', '&quot;', '')])[1]/preceding::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[5]/div/span/span/span/span/span/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>

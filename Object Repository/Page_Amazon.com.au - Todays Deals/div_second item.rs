@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_second item</name>
+   <tag></tag>
+   <elementGuidId>98363df8-cc72-45a0-bb2e-3c381a3b3290</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slot-15']/div/div/div[2]/div[3]/div/div[2]/div/div/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DealContent-module__truncate_sWbxETx42ZPStTc9jwySW</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[US Deal] Save on GUND, Just Play, Rainbocorns. Discount applied in price displayed.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slot-15&quot;)/div[@class=&quot;deals-react-app&quot;]/div[@class=&quot;GridContainer-module__gridContainer_1gdX46IKefSs6Lz4O4a3fj largeDevice&quot;]/div[@class=&quot;GridContainer-module__gridMainContainer_24aSWvAi-VAzH5okoDOqpb&quot;]/div[@class=&quot;a-row Grid-module__gridSection_1SEJTeTsU88s6aVeuuekAp&quot;]/div[@class=&quot;Grid-module__grid_1-xkdMK87Hfx0wjqVxAGcI&quot;]/div[@class=&quot;DealGridItem-module__dealItem_2X_WLYkJ3-dM0LtXI9THcu DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN&quot;]/div[@class=&quot;DealGridItem-module__dealItemContent_1vFddcq1F8pUxM8dd9FW32&quot;]/div[@class=&quot;DealCard-module__card_1u9yKYV4EIA-fL4ibeMVIU DealCard-module__cardWithoutActionButton_1K_FldevdoXxE8uy5pzBmr&quot;]/a[@class=&quot;a-link-normal  a-color-base a-text-normal&quot;]/div[@class=&quot;DealContent-module__truncate_sWbxETx42ZPStTc9jwySW&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slot-15']/div/div/div[2]/div[3]/div/div[2]/div/div/a[3]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[4]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal price:'])[3]/preceding::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[5]/preceding::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[US Deal] Save on GUND, Just Play, Rainbocorns. Discount applied in price displayed.']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[3]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

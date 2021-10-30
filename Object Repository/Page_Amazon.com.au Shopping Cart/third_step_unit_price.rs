@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>third_step_unit_price</name>
+   <tag></tag>
+   <elementGuidId>2299ca8e-efde-431e-a818-201f1cd62634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium.a-color-base.sc-price.sc-white-space-nowrap.sc-product-price.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium a-color-base sc-price sc-white-space-nowrap sc-product-price a-text-bold</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$9.58</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-item-C63a6a9ef-5c87-421a-9c29-9ef269ea634a&quot;)/div[@class=&quot;sc-list-item-content&quot;]/div[@class=&quot;a-row a-grid-vertical-align a-grid-top sc-list-item-content-inner&quot;]/div[@class=&quot;sc-item-content-group&quot;]/ul[@class=&quot;a-unordered-list a-nostyle a-vertical a-spacing-base&quot;]/li[2]/span[@class=&quot;a-list-item&quot;]/p[@class=&quot;a-spacing-mini&quot;]/span[@class=&quot;a-size-medium a-color-base sc-price sc-white-space-nowrap sc-product-price a-text-bold&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-item-C63a6a9ef-5c87-421a-9c29-9ef269ea634a']/div[4]/div/div[2]/ul/li[2]/span/p/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opens in a new tab'])[10]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('GUND Doug The Pug Pizza Hat Plush Stuffed Animal Dog, 5', '&quot;', '')])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In stock'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+   </webElementXpaths>
+</WebElementEntity>
